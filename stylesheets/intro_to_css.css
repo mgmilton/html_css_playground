@@ -1,0 +1,21 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font: 75% georgia, sans-serif;
+  color: white;
+  background: #fff url(http://glasstire.com/wp-content/uploads/2017/07/robert-irwin-whos-afraid-of-red-yellow-and-blue.jpg) no-repeat center;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: #00b3b3;
+}
+
+p {
+  max-width: 600px;
+  margin: 0;
+}
